@@ -1,0 +1,46 @@
+.one{
+    width: 300px;
+    height: 120px;
+    display: flex;
+}
+#off{
+    width: 100%;
+    height: auto;
+    
+}
+#off img{
+   width: 120PX;
+}
+#on{
+    width: 100%;
+    height: auto;
+    display: none;
+}
+#on img{
+   width: 120PX;
+}
+
+
+
+
+.two{
+    width: 300px;
+    height: 120px;
+    display: flex;
+}
+#off1{
+    width: 100%;
+    height: auto;
+    
+}
+#off1 img{
+   width: 120PX;
+}
+#on1{
+    width: 100%;
+    height: auto;
+    display: none;
+}
+#on1 img{
+   width: 120PX;
+}
